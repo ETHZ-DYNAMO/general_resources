@@ -29,6 +29,7 @@ Welcome to the **ETH DYNAMO** group’s General Resources repository! This repos
 ---
 ### Tool-usage
 - [Run Modelsim Simulation](/tool_tutorials/modelsim_simulation_tutorial.md)
+- [Vitis tutorial from AMD](https://xilinx.github.io/xup_high_level_synthesis_design_flow/index.html)
 
 ---
 ## Common Issues & Troubleshooting
