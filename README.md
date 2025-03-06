@@ -28,9 +28,13 @@ Welcome to the **ETH DYNAMO** group’s General Resources repository! This repos
 
 ---
 ### Tool-usage
+- [Git and Vim](https://missing.csail.mit.edu/)
+- [Configure VSCode for Dynamatic](/tool_tutorials/dynamatic_vscode_guide.md)
 - [Run Modelsim Simulation](/tool_tutorials/modelsim_simulation_tutorial.md)
-- [Vitis tutorial from AMD](https://github.com/Xilinx/xup_high_level_synthesis_design_flow/tree/main)
+- [Vitis Tutorials from AMD](https://github.com/Xilinx/xup_high_level_synthesis_design_flow/tree/main)
 
 ---
 ## Common Issues & Troubleshooting
+
+
 
