@@ -22,9 +22,14 @@ Welcome to the **ETH DYNAMO** group’s General Resources repository! This repos
 ## Tutorials
 
 ### Installation-guides
+- [Install Dynamatic](/installation_guides/install_dynamatic.md)
+- [Install Modelsim](/installation_guides/install_modelsim.md)
 - [Install Windows 10 VM and MS Office (with a ETH license) on Ubuntu](/installation_guides/install_windows_vm.md)
 
+---
 ### Tool-usage
+- [Run Modelsim Simulation](/tool_tutorials/modelsim_simulation_tutorial.md)
 
+---
 ## Common Issues & Troubleshooting
 
