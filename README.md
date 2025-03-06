@@ -22,6 +22,7 @@ Welcome to the **ETH DYNAMO** group’s General Resources repository! This repos
 ## Tutorials
 
 ### Installation-guides
+- [Install Windows 10 VM and MS Office (with a ETH license) on Ubuntu](/installation_guides/install_windows_vm.md)
 
 ### Tool-usage
 
