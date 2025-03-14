@@ -1,4 +1,4 @@
-# General Resources
+# Resources for DYNAMO Student Projects
 
 Welcome to the **ETH DYNAMO** group’s General Resources repository! This repository is intended to provide tutorials, tips, and troubleshooting guides for commonly used tools and workflows in our research. Whether you’re new to the group or looking for a solution to a particular technical issue, we hope you’ll find everything you need here. 
 
