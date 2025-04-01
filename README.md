@@ -35,7 +35,8 @@ Welcome to the **ETH DYNAMO** group’s General Resources repository! This repos
 - [Vitis Tutorials from AMD](https://github.com/Xilinx/xup_high_level_synthesis_design_flow/tree/main)
 
 ---
-## Common Issues & Troubleshooting
-
+## Other Rescources
+- [QR Code Generation](./utils/qrcode.py)
+- [Dynamo Synthesis Template](./misc/thesis-template-master.zip)
 
 
