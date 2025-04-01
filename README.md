@@ -19,6 +19,7 @@ Welcome to the **ETH DYNAMO** group’s General Resources repository! This repos
 - Share solutions to common technical problems.  
 - Serve as a starting point for new students in the ETH DYNAMO group.
 
+---
 ## Tutorials
 
 ### Installation-guides
