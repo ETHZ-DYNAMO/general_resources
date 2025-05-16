@@ -1,4 +1,4 @@
-# Slides and Poster Template for Presentations
+# Slides and Poster Templates
 
 You can download the `Dynamo` slides and poster template [here](../misc/resources/presentation-template-main.zip).
 
