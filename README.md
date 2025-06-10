@@ -38,7 +38,7 @@ Welcome to the **ETH DYNAMO** group’s General Resources repository! This repos
 ---
 ## Other Rescources
 - [QR Code Generation](./utils/qrcode.py)
-- [Dynamo Thesis Template](./misc/resources/thesis-template-master.zip)
-- [Slides/Poster Templates](./misc/slides_template.md)
+- [Dynamo Thesis Template](./student_project_resources/thesis-template-master.zip)
+- [Slides/Poster Templates](./student_project_resources/slides_template.md)
 
 
